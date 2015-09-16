@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大智度論
+#+DATE: 2015-08-30 19:42:16.632010
+#+PROPERTY: JUAN 0
