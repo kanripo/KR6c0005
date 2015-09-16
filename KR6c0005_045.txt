@@ -1,24 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:42:13.161714
+#+DATE: 2015-08-30 19:42:23.422752
 #+TITLE: 大智度論
 #+PROPERTY: CBETA_ID T25n1509
 #+PROPERTY: ID KR6c0005
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 25, No. 1509
 #+PROPERTY: VOL 25
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS 【大→UNKNOWN】
 #+PROPERTY: LASTPB <pb:KR6c0005_T_045-0382b> ¶¶¶¶¶
 #+PROPERTY: JUAN 45
 ¶
 ¶
-
- 《大智度論釋》摩訶薩品第十三(卷四¶
+《大智度論釋》(卷四¶
 十五)¶
 ¶
 龍樹菩薩造¶
 後秦龜茲國三藏鳩摩羅什譯¶
 
-13摩訶薩品
 【經】
 
 爾時，須菩提白佛言：「世尊！何以故名為¶
@@ -300,11 +298,7 @@
 若能為大者作上¶
 首，何況小者！是故名為「摩訶薩」。¶
 
-14斷見品
-:PROPERTIES:
-:head: 《大智度論釋》斷見品第十四
-:END:
-¶
+《大智度論釋》¶
 
 【經】
 
@@ -493,11 +487,7 @@
 佛心，不念有是心，亦不著是心，能疾至¶
 阿耨多羅三藐三菩提。」(釋第十四品竟)。¶
 
-15大莊嚴品
-:PROPERTIES:
-:head: 《大智度論釋》大莊嚴品第十五
-:END:
-¶
+《大智度論釋》大莊嚴品第十五¶
 
 【經】
 
@@ -1056,6 +1046,6 @@
 　是為決定智！」(釋第十五品竟)
 #+END_VERSE
 」¶
-《大智度論》卷第四十五
+《大智度論》
 <pb:KR6c0005_T_045-0389b>¶
 
