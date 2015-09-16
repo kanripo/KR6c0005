@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:42:13.965662
+#+DATE: 2015-08-30 19:42:35.020472
 #+TITLE: 大智度論
 #+PROPERTY: CBETA_ID T25n1509
 #+PROPERTY: ID KR6c0005
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 25, No. 1509
 #+PROPERTY: VOL 25
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@BEIZANG
 #+PROPERTY: LASTPB <pb:KR6c0005_T_065-0515a> 
 #+PROPERTY: JUAN 65
 ¶
-
- 《大智度論釋》無作實相品第四十¶
+《大智度論釋》無作實相品實相品第四十¶
 三之餘(卷六十五)¶
 ¶
 聖者龍樹造¶
@@ -147,7 +146,7 @@
 又常受持、正憶念、如所說行¶
 般若，故無眾患。
 譬如良藥，能破眾病；若不¶
-能將順，則不除患，非藥之失。又如𤻝人¶
+能將順，則不除患，非藥之失。又如[病-丙+寧]人¶
 雖得利器，不能御難，非器之過。行者如¶
 是，先世重罪，今世不如所說行故，不得¶
 般若力，非般若過。
@@ -496,11 +495,7 @@
 <pb:KR6c0005_T_065-0518b>¶
 槃性，故說無畢定福田。¶
 
-44諸波羅蜜品
-:PROPERTIES:
-:head: 《大智度論釋》諸波羅蜜品第四十四
-:END:
-¶
+《大智度論釋》四¶
 
 【經】
 

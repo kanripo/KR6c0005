@@ -1,20 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:42:14.673298
+#+DATE: 2015-08-30 19:42:35.659249
 #+TITLE: 大智度論
 #+PROPERTY: CBETA_ID T25n1509
 #+PROPERTY: ID KR6c0005
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 25, No. 1509
 #+PROPERTY: VOL 25
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@BEIZANG
 #+PROPERTY: LASTPB <pb:KR6c0005_T_081-0625c> 
 #+PROPERTY: JUAN 81
 
 <pb:KR6c0005_T_081-0626a>¶
 ¶
-
- 《大智度論釋》六度品第六十八之¶
-餘(卷八十一)¶
+《大智度論釋》(卷八十一)¶
 ¶
 聖者龍樹造¶
 後秦龜茲國三藏鳩摩羅什譯¶
@@ -615,8 +613,7 @@
 答曰：
 大小乘法異：不超二者，是¶
 小乘法中說；菩薩無量福德、智慧，深入禪定¶
-力故，能隨意超越。如人力超躑，不過丈¶
-數，若以天力超之，無廣遠之難。
+力故，能隨意超越。如人力超躑，不過丈數，若以天力超之，無廣遠之難。
 又《阿毘曇》¶
 中，皆為凡夫人、聲聞人說；菩薩則不然，智¶
 慧力故，入師子奮迅三昧，能於諸法得自

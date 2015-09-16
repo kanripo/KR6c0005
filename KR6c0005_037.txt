@@ -1,18 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:42:12.813088
+#+DATE: 2015-08-30 19:42:33.924390
 #+TITLE: 大智度論
 #+PROPERTY: CBETA_ID T25n1509
 #+PROPERTY: ID KR6c0005
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 25, No. 1509
 #+PROPERTY: VOL 25
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@BEIZANG
 #+PROPERTY: LASTPB <pb:KR6c0005_T_037-0329c> 
 #+PROPERTY: JUAN 37
 ¶
-
- 《大智度論釋》習相應品第三¶
-之餘(卷三十七)¶
+《大智度論釋》(卷三十七)¶
 ¶
 聖者龍樹造¶
 後秦龜茲國三藏鳩摩羅什譯¶
@@ -522,8 +520,7 @@
 蜜，惡魔不能得其便；世間眾事，所欲隨意；十¶
 方各如恒河沙等諸佛，皆悉擁護是菩薩，令
 <pb:KR6c0005_T_037-0332c>¶
-不墮聲聞、辟支佛地；四天王天乃至阿迦尼¶
-吒天，皆亦擁護是菩薩，不令有礙；是菩薩所¶
+不墮聲聞、辟支佛地；四天王天乃至阿迦尼吒天，皆亦擁護是菩薩，不令有礙；是菩薩所¶
 有重罪，現世輕受。何以故？是菩薩摩訶薩用¶
 普慈加眾生故。
 

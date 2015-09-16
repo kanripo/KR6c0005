@@ -1,19 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:42:15.449626
+#+DATE: 2015-08-30 19:42:36.413975
 #+TITLE: 大智度論
 #+PROPERTY: CBETA_ID T25n1509
 #+PROPERTY: ID KR6c0005
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 25, No. 1509
 #+PROPERTY: VOL 25
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@BEIZANG
 #+PROPERTY: LASTPB <pb:KR6c0005_T_100-0750b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 100
 ¶
 ¶
-
- 《大智度論釋》曇無竭品第八十九¶
-(卷第一百)¶
+《大智度論釋》(卷第一百)¶
 ¶
 龍樹菩薩造¶
 後秦龜茲國三藏鳩摩羅什譯¶
@@ -483,11 +481,7 @@
 阿難得聞持陀羅¶
 尼，又常親近世尊，故廣囑累。¶
 
-90囑累品
-:PROPERTIES:
-:head: 《大智度論釋》囑累品第九十
-:END:
-¶
+《大智度論釋》第九十¶
 
 【經】
 
@@ -904,4 +898,4 @@
 品已下，法師略之，取其足以開釋文意¶
 而已，不復備其廣釋。得此百卷，若盡出¶
 之，將十倍於此。¶
-大智度論卷第一百
+大智度論卷第一百論卷第一百
