@@ -1,23 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:42:12.868995
+#+DATE: 2015-08-30 19:42:39.226192
 #+TITLE: 大智度論
 #+PROPERTY: CBETA_ID T25n1509
 #+PROPERTY: ID KR6c0005
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 25, No. 1509
 #+PROPERTY: VOL 25
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6c0005_T_038-0336b> 
 #+PROPERTY: JUAN 38
 ¶
-
- 《大智度論釋》往生品第四之上¶
+《大智度論釋》第四之上¶
 (卷三十八)¶
 ¶
 聖者龍樹造¶
 後秦龜茲國三藏鳩摩羅什譯¶
 
-4往生品
 【經】
 
 舍利弗白佛言：「世尊！菩薩摩訶薩行般若¶
@@ -31,7 +29,7 @@
 
 「舍利弗！從他¶
 方佛國來者，疾與般若波羅蜜相應；與般若¶
-波羅蜜相應故，捨身來生此間；諸深法要¶
+波羅蜜相應故，捨身來生此間；諸深法要要¶
 皆現在前，後還與般若波羅蜜相應，在所¶
 生處常值諸佛。
 

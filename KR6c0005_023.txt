@@ -1,23 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:42:12.183699
+#+DATE: 2015-08-30 19:42:38.638883
 #+TITLE: 大智度論
 #+PROPERTY: CBETA_ID T25n1509
 #+PROPERTY: ID KR6c0005
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 25, No. 1509
 #+PROPERTY: VOL 25
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6c0005_T_023-0229a> 
 #+PROPERTY: JUAN 23
 ¶
-
- 《大智度論》《初品中》十想釋論¶
-第三十七(卷二十三)¶
+《大智度論》《初品中》(卷二十三)¶
 ¶
 聖者龍樹造¶
 後秦龜茲國三藏鳩摩羅什譯¶
 
-37十想釋論
 【經】
 
 「十想：無常想、苦想、無我想、食不淨想、一切¶
@@ -613,12 +610,7 @@
 是三想有漏、無漏故，一切地中¶
 攝(十想竟)。¶
 
-38十一智釋論
-:PROPERTIES:
-:head: 《大智度》《初品中》十一智釋論第三十八¶
-(丹云：三三昧義、三根義合)
-:END:
-¶
+《大智度》《初品中》(丹云：三三昧義、三根義合)¶
 
 【經】
 
