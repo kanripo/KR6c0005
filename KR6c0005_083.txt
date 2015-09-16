@@ -1,19 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:42:14.761245
+#+DATE: 2015-08-30 19:43:19.539695
 #+TITLE: 大智度論
 #+PROPERTY: CBETA_ID T25n1509
 #+PROPERTY: ID KR6c0005
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 25, No. 1509
 #+PROPERTY: VOL 25
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENGYI
 #+PROPERTY: LASTPB <pb:KR6c0005_T_083-0639c> 
 #+PROPERTY: JUAN 83
 ¶
 ¶
-
- 《大智度論釋》大方便品第六十九¶
-之餘(卷八十三)¶
+《大智度論釋》(卷八十三)¶
 ¶
 聖者龍樹菩薩造¶
 後秦龜茲國三藏鳩摩羅什譯¶
@@ -287,11 +285,7 @@
 戒眾等五，亦名為「五眾」。
 「緣」，先略說，後廣說。¶
 
-70三惠品
-:PROPERTIES:
-:head: 《大智度論釋》三惠品第七十
-:END:
-¶
+《大智度論釋》¶
 
 【經】
 
@@ -927,5 +921,5 @@
 <pb:KR6c0005_T_083-0645b>¶
 非以顛倒故。須菩提！菩薩應如是無作般¶
 若中行無作、無起故。」¶
-《大智度論》卷第八十三¶
+《大智度論》¶
 
